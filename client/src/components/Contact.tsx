@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+free ttoimport { motion } from "framer-motion";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
@@ -70,7 +70,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold">Email</h4>
-                  <p className="text-muted-foreground">mailto:gfxethion@gmail.com?subject=Hello arima&body=your_project_idea_here</p>
+                  <p className="text-muted-foreground">gfxethion@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
