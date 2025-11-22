@@ -19,7 +19,7 @@ export default function Footer() {
           </div>
 
           <div className="flex items-center gap-6">
-            <a href="gfxethion@gmail.com" className="text-muted-foreground hover:text-primary transition-colors hover:scale-110 transform duration-200" title="Email">
+            <a href="mailto:gfxethion@gmail.com?subject=Hello&body=Hi%20there!" className="text-muted-foreground hover:text-primary transition-colors hover:scale-110 transform duration-200" title="Email">
               <Mail size={20} />
             </a>
             <a href="https://blinime.vercel.app/home/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors hover:scale-110 transform duration-200" title="GitHub">
