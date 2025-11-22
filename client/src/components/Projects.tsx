@@ -6,17 +6,24 @@ import { Button } from "@/components/ui/button";
 const projects = [
   {
     title: "Anime website",
-    category: "Personal Brand",
-    image: "https://media.discordapp.net/attachments/1417738377977008260/1441682182841040926/image.png?ex=6922aea9&is=69215d29&hm=f799aeade3fef25aa34012aa2eec70a7f074c1177749de0f87f523a04f5d569b&=&format=webp&quality=lossless&width=1543&height=738",
+    category: "website",
+    image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840196902457515/image0.jpg?ex=692341d3&is=6921f053&hm=d89cc2c31aac9d3b91fb92a6d23a92d426d324db92c13ace37e9786ebd5f386d&",
     github: "https://discord.gg/jH7HpVQbH3",
     demo: "https://blinime.vercel.app/home"
   },
   {
-    title: "ApeX Music",
-    category: "Discord Bot",
-    image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
-    github: "https://github.com/teamapexofc/ApeX-Music",
-    demo: "https://apexmusic.netlify.app/"
+    title: "radio site",
+    category: "website",
+    image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840501698466043/image0.png?ex=6923421b&is=6921f09b&hm=4f1c6e0d3b37f6fe586aded49128e434abac904ca21a94f32b3cb7be7c704375&",
+    github: "https://discord.gg/jH7HpVQbH3",
+    demo: "https://blisstune.netlify.app/"
+  },
+  {
+    title: "music site",
+    category: "website",
+    image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840277051670568/Screenshot_20251121_201334_Chrome.jpg?ex=692341e6&is=6921f066&hm=f5475cd9c623e61652bd01417df184c2b7229532043edb4f02c1b4f9cb0d6a9e&",
+    github: "https://discord.gg/jH7HpVQbH3",
+    demo: "https://blissmusic.vercel.app/"
   }
 ];
 
