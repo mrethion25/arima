@@ -70,7 +70,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold">Email</h4>
-                  <p className="text-muted-foreground">gfxethion@gmail.com</p>
+                  <p className="text-muted-foreground">mailto:gfxethion@gmail.com?subject=Hello arima&body=your_project_idea_here</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
