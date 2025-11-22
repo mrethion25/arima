@@ -81,7 +81,7 @@ export default function Hero() {
                   Explore My Work <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
                 </Button>
                 <Button size="lg" variant="outline" className="h-16 px-10 text-lg rounded-none border-white/20 hover:bg-white/5 hover:text-white gap-3">
-                  <Github className="h-5 w-5" /> 
+                  <Disc className="h-5 w-5" /> 
                   <span>dc server</span>
                 </Button>
               </div>
