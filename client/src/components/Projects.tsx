@@ -5,28 +5,28 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "Anime website",
+    title: "Anime website | watch any anime • ad-free • 3d ui",
     category: "website",
     image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840196902457515/image0.jpg?ex=692341d3&is=6921f053&hm=d89cc2c31aac9d3b91fb92a6d23a92d426d324db92c13ace37e9786ebd5f386d&",
     github: "https://discord.gg/jH7HpVQbH3",
     demo: "https://blinime.vercel.app/home"
   },
     {
-    title: "portfolio",
+    title: "portfolio | showcase your project • showcase your ability • 3d ui",
     category: "website",
     image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441847405409468456/Screenshot_20251122_231259_Chrome.jpg?ex=69234889&is=6921f709&hm=57dae0535610d0f50f0b1b28c6fd61784f861172dfe71e8131ae75a12f83f062&",
     github: "https://discord.gg/jH7HpVQbH3",
     demo: "https://arimadev.vercel.app/"
   },
   {
-    title: "radio site",
+    title: "radio site | listen to any radio in the world",
     category: "website",
     image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840501698466043/image0.png?ex=6923421b&is=6921f09b&hm=4f1c6e0d3b37f6fe586aded49128e434abac904ca21a94f32b3cb7be7c704375&",
     github: "https://discord.gg/jH7HpVQbH3",
     demo: "https://blisstune.netlify.app/"
   },
   {
-    title: "music site",
+    title: "music site | listen to any music",
     category: "website",
     image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840277051670568/Screenshot_20251121_201334_Chrome.jpg?ex=692341e6&is=6921f066&hm=f5475cd9c623e61652bd01417df184c2b7229532043edb4f02c1b4f9cb0d6a9e&",
     github: "https://discord.gg/jH7HpVQbH3",
