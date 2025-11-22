@@ -4,7 +4,7 @@ import { Palette, Code, Zap, Globe, Smartphone, Layers } from "lucide-react";
 const services = [
   {
     title: "UI/UX Design",
-    description: "Crafting intuitive and visually stunning interfaces.",
+    description: "Crafting intuitive and visually stunning & responsive interfaces.",
     icon: <Palette className="w-6 h-6" />,
     colSpan: "md:col-span-2",
     bg: "bg-gradient-to-br from-purple-900/50 to-blue-900/50"
@@ -25,13 +25,13 @@ const services = [
   },
   {
     title: "Full Stack",
-    description: "End-to-end solutions from database to frontend.",
+    description: "End-to-end solutions from database to frontend & backend.",
     icon: <Layers className="w-6 h-6" />,
     colSpan: "md:col-span-2",
     bg: "bg-gradient-to-br from-primary/20 to-purple-900/50"
   },
   {
-    title: "Mobile First",
+    title: "device friendly",
     description: "Responsive designs that work on any device.",
     icon: <Smartphone className="w-6 h-6" />,
     colSpan: "md:col-span-3",
