@@ -8,7 +8,7 @@ export default function Footer() {
           
           <div className="flex flex-col items-center md:items-start gap-2">
             <div className="flex items-center gap-2">
-              <img src="https://cdn.discordapp.com/avatars/1216087894263857285/224199bde22ae219dd2d7cb7cbf6e4b1.webp?size=1024" alt="Alive" className="h-6 w-6" />
+              <img src="https://cdn.discordapp.com/avatars/1216087894263857285/224199bde22ae219dd2d7cb7cbf6e4b1.webp?size=1024" alt="Arima" className="h-6 w-6" />
               <span className="text-lg font-bold font-heading">
                 Arima
               </span>
