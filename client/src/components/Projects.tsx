@@ -14,9 +14,9 @@ const projects = [
     {
     title: "portfolio",
     category: "website",
-    image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441840196902457515/image0.jpg?ex=692341d3&is=6921f053&hm=d89cc2c31aac9d3b91fb92a6d23a92d426d324db92c13ace37e9786ebd5f386d&",
+    image: "https://cdn.discordapp.com/attachments/1377628285479026718/1441847405409468456/Screenshot_20251122_231259_Chrome.jpg?ex=69234889&is=6921f709&hm=57dae0535610d0f50f0b1b28c6fd61784f861172dfe71e8131ae75a12f83f062&",
     github: "https://discord.gg/jH7HpVQbH3",
-    demo: "https://arimadev.vercel.app/home"
+    demo: "https://arimadev.vercel.app/"
   },
   {
     title: "radio site",
