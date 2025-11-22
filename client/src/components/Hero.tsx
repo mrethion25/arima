@@ -45,8 +45,8 @@ export default function Hero() {
               <h1 className="text-7xl md:text-9xl font-bold leading-[0.85] tracking-tighter mb-8">
                 <span className="block text-white mix-blend-difference">I AM</span>
                 <span className="block text-transparent bg-clip-text bg-gradient-to-r from-primary via-white to-primary animate-gradient-x bg-[length:200%_auto] glitch-wrapper">
-                  <span className="glitch-layer text-primary" aria-hidden="true">ALIVE</span>
-                  ALIVE
+                  <span className="glitch-layer text-primary" aria-hidden="true">Arima</span>
+                  ARIMA
                 </span>
               </h1>
               
@@ -54,17 +54,17 @@ export default function Hero() {
               <div className="space-y-6 mb-12">
                 <div className="flex items-center gap-3 text-2xl md:text-3xl font-light text-white/80">
                   <Terminal className="w-6 h-6 text-primary" />
-                  <span>CEO of <strong className="text-white font-bold">ApeX Development</strong></span>
+                  <span>CEO of <strong className="text-white font-bold">bliss Development</strong></span>
                 </div>
                 
                 <a 
-                  href="https://Alive.encorebot.me" 
+                  href="https://blinime.vercel.app/home" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-primary/80 hover:text-primary transition-colors font-mono text-sm border border-primary/20 px-4 py-2 rounded-full hover:bg-primary/10"
                 >
                   <span className="w-1.5 h-1.5 bg-primary rounded-full" />
-                  Alive.encorebot.me
+                  blinime.vercel.app
                   <ChevronRight className="w-3 h-3" />
                 </a>
               </div>
@@ -82,7 +82,7 @@ export default function Hero() {
                 </Button>
                 <Button size="lg" variant="outline" className="h-16 px-10 text-lg rounded-none border-white/20 hover:bg-white/5 hover:text-white gap-3">
                   <Github className="h-5 w-5" /> 
-                  <span>Source Code</span>
+                  <span>dc server</span>
                 </Button>
               </div>
             </motion.div>
