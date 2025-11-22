@@ -49,7 +49,7 @@ export default function Navbar() {
             onClick={(e) => scrollToSection(e, "#home")}
             className="flex items-center gap-2"
           >
-            <img src="https://images-ext-1.discordapp.net/external/62Z18IyUDPSKmuFm9DE3JuZDsZ3NBa-bssyYt_TdCQE/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1304080189029875753/16b589870dec30e251c493faad39af8f.webp?format=webp" alt="Alive" className="h-8 w-8" />
+            <img src="https://cdn.discordapp.com/avatars/1216087894263857285/224199bde22ae219dd2d7cb7cbf6e4b1.webp?size=1024" alt="Alive" className="h-8 w-8" />
             <span className="text-xl font-bold font-heading tracking-tight">
               Alive
             </span>
