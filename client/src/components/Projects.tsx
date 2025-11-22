@@ -5,11 +5,11 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
-    title: "Alive Portfolio",
+    title: "All in one anime website",
     category: "Personal Brand",
     image: "https://media.discordapp.net/attachments/1417738377977008260/1441682182841040926/image.png?ex=6922aea9&is=69215d29&hm=f799aeade3fef25aa34012aa2eec70a7f074c1177749de0f87f523a04f5d569b&=&format=webp&quality=lossless&width=1543&height=738",
-    github: "https://github.com/teamapexofc/Simpleportofolio",
-    demo: "https://Alive.encorebot.me"
+    github: "https://discord.gg/jH7HpVQbH3",
+    demo: "https://blinime.vercel.app/home"
   },
   {
     title: "ApeX Music",
@@ -18,6 +18,27 @@ const projects = [
     github: "https://github.com/teamapexofc/ApeX-Music",
     demo: "https://apexmusic.netlify.app/"
   }
+  {
+    title: "ApeX Music",
+    category: "Discord Bot",
+    image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
+    github: "https://github.com/teamapexofc/ApeX-Music",
+    demo: "https://apexmusic.netlify.app/"
+   }
+   {
+    title: "ApeX Music",
+    category: "Discord Bot",
+    image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
+    github: "https://github.com/teamapexofc/ApeX-Music",
+    demo: "https://apexmusic.netlify.app/"
+   }
+   {
+    title: "ApeX Music",
+    category: "Discord Bot",
+    image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
+    github: "https://github.com/teamapexofc/ApeX-Music",
+    demo: "https://apexmusic.netlify.app/"
+   }
 ];
 
 function ProjectCard({ project }: { project: any }) {
