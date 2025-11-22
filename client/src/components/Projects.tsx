@@ -17,21 +17,21 @@ const projects = [
     image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
     github: "https://github.com/teamapexofc/ApeX-Music",
     demo: "https://apexmusic.netlify.app/"
-  }
+  },
   {
     title: "ApeX Music",
     category: "Discord Bot",
     image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
     github: "https://github.com/teamapexofc/ApeX-Music",
     demo: "https://apexmusic.netlify.app/"
-   }
+   },
    {
     title: "ApeX Music",
     category: "Discord Bot",
     image: "https://media.discordapp.net/attachments/1417738377977008260/1441682558625779722/image.png?ex=6922af03&is=69215d83&hm=671f02a1037c34306b5252de55cbcb51fc6733c19f92a57c70c9b06f835fdef1&=&format=webp&quality=lossless&width=550&height=264",
     github: "https://github.com/teamapexofc/ApeX-Music",
     demo: "https://apexmusic.netlify.app/"
-   }
+   },
    {
     title: "ApeX Music",
     category: "Discord Bot",
